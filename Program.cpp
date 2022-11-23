@@ -3,13 +3,14 @@
 //
 
 #include "Program.h"
+#include "main_window.h"
 
-namespace project {
+namespace calculator {
     int Program::Run() {
         QApplication a(argc, argv);
-        QPushButton button("Hello world!", nullptr);
-        button.resize(200, 100);
-        button.show();
+        QMainWindow window;
+        calculator::main_window form(&window);
+        form.show();
         return QApplication::exec();
     }
 
@@ -18,4 +19,4 @@ namespace project {
     }
 
 
-} // project
+} // calculator

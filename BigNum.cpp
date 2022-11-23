@@ -4,7 +4,7 @@
 
 #include "BigNum.h"
 
-namespace project {
+namespace calculator {
     BigNum::BigNum(std::string value) {
         num = value;
         sign = value[0] == '-' ? Sign::Minus : Sign::Plus;
@@ -279,4 +279,4 @@ namespace project {
     std::ostream &operator<<(std::ostream &os, BigNum lg) {
         return os << lg.Tostring();
     }
-} // project
+} // calculator

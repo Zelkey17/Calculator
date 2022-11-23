@@ -6,6 +6,7 @@
 #define CALCULATOR_MAIN_WINDOW_H
 
 #include <QMainWindow>
+#include "Theme.h"
 
 namespace calculator {
     QT_BEGIN_NAMESPACE
@@ -22,7 +23,16 @@ namespace calculator {
 
     private:
         Ui::main_window *ui;
+        Theme theme;
+    public slots:
+
+        void slot1();
+
+        void slot2();
+
+        void gray();
     };
+
 } // calculator
 
 #endif //CALCULATOR_MAIN_WINDOW_H

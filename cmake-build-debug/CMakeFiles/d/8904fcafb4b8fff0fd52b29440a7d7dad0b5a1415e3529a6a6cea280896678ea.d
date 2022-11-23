@@ -4,6 +4,8 @@ Calculator_autogen/timestamp: \
   ../CMakeLists.txt \
   ../Program.cpp \
   ../Program.h \
+  ../Theme.cpp \
+  ../Theme.h \
   CMakeFiles/3.23.2/CMakeCCompiler.cmake \
   CMakeFiles/3.23.2/CMakeCXXCompiler.cmake \
   CMakeFiles/3.23.2/CMakeSystem.cmake \
@@ -317,6 +319,7 @@ Calculator_autogen/timestamp: \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvarlengtharray.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qversiontagging.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/QPalette \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qbrush.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \

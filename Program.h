@@ -9,7 +9,7 @@
 #include <QPushButton>
 #include <string>
 
-namespace project {
+namespace calculator {
 
     class Program {
         int argc;
@@ -20,6 +20,6 @@ namespace project {
         int Run();
     };
 
-} // project
+} // calculator
 
 #endif //CALCULATOR_PROGRAM_H

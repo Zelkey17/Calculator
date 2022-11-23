@@ -1,5 +1,6 @@
 /home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/EWIEGA46WW/moc_main_window.cpp: /home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/main_window.h \
   /home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/moc_predefs.h \
+  /home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/Theme.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/assert.h \
@@ -288,6 +289,7 @@
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvarlengtharray.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qversiontagging.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/QPalette \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qbrush.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \

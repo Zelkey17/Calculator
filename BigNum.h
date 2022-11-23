@@ -9,7 +9,7 @@
 #include<vector>
 #include <stdexcept>
 
-namespace project {
+namespace calculator {
 
     enum Sign {
         Plus, Minus
@@ -80,6 +80,6 @@ namespace project {
         friend std::ostream &operator<<(std::ostream &os, BigNum lg);
     };
 
-} // project
+} // calculator
 
 #endif //CALCULATOR_BIGNUM_H

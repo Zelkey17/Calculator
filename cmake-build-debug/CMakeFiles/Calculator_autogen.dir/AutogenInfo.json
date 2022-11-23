@@ -91,6 +91,12 @@
 			null
 		],
 		[
+			"/home/ash/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Studing/c++/Pracs/Calculator/Theme.h",
+			"MU",
+			"EWIEGA46WW/moc_Theme.cpp",
+			null
+		],
+		[
 			"/home/ash/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Studing/c++/Pracs/Calculator/main_window.h",
 			"MU",
 			"EWIEGA46WW/moc_main_window.cpp",
@@ -154,6 +160,11 @@
 		],
 		[
 			"/home/ash/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Studing/c++/Pracs/Calculator/Program.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ash/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Studing/c++/Pracs/Calculator/Theme.cpp",
 			"MU",
 			null
 		],

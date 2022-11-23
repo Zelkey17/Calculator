@@ -89,6 +89,14 @@ build CMakeFiles/Calculator.dir/Program.cpp.o: CXX_COMPILER__Calculator_Debug /h
   OBJECT_DIR = CMakeFiles/Calculator.dir
   OBJECT_FILE_DIR = CMakeFiles/Calculator.dir
 
+build CMakeFiles/Calculator.dir/Theme.cpp.o: CXX_COMPILER__Calculator_Debug /home/ash/Рабочий$ стол/Studing/c++/Pracs/Calculator/Theme.cpp || cmake_object_order_depends_target_Calculator
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Calculator.dir/Theme.cpp.o.d
+  FLAGS = -g -fPIC -std=gnu++23
+  INCLUDES = -I"/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/include" -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets
+  OBJECT_DIR = CMakeFiles/Calculator.dir
+  OBJECT_FILE_DIR = CMakeFiles/Calculator.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Calculator
@@ -97,7 +105,7 @@ build CMakeFiles/Calculator.dir/Program.cpp.o: CXX_COMPILER__Calculator_Debug /h
 #############################################
 # Link the executable Calculator
 
-build Calculator: CXX_EXECUTABLE_LINKER__Calculator_Debug CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o CMakeFiles/Calculator.dir/main.cpp.o CMakeFiles/Calculator.dir/main_window.cpp.o CMakeFiles/Calculator.dir/BigNum.cpp.o CMakeFiles/Calculator.dir/Program.cpp.o | /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 || Calculator_autogen Calculator_autogen_timestamp_deps
+build Calculator: CXX_EXECUTABLE_LINKER__Calculator_Debug CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o CMakeFiles/Calculator.dir/main.cpp.o CMakeFiles/Calculator.dir/main_window.cpp.o CMakeFiles/Calculator.dir/BigNum.cpp.o CMakeFiles/Calculator.dir/Program.cpp.o CMakeFiles/Calculator.dir/Theme.cpp.o | /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 || Calculator_autogen Calculator_autogen_timestamp_deps
   FLAGS = -g
   LINK_LIBRARIES = /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3  /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3
   OBJECT_DIR = CMakeFiles/Calculator.dir

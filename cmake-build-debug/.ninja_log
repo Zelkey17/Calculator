@@ -1,11 +1,31 @@
 # ninja log v5
-1	185	1669206745985253559	Calculator_autogen/timestamp	859e7d4cfb521359
-1	185	1669206745985253559	Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
-1	185	1669206745985253559	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/timestamp	859e7d4cfb521359
-1	185	1669206745985253559	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
-187	1321	1669206747121266073	CMakeFiles/Calculator.dir/BigNum.cpp.o	5994f8d1be523a6c
-186	2576	1669206748377279903	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	2c0b6160ee77f7f7
-187	2775	1669206748577282104	CMakeFiles/Calculator.dir/Program.cpp.o	8f4c6609a290a905
-185	2785	1669206748585282192	CMakeFiles/Calculator.dir/main.cpp.o	3a8cb55c16f9aa29
-186	2824	1669206748625282633	CMakeFiles/Calculator.dir/main_window.cpp.o	528abfd3456480cb
-2825	3215	1669206749013286903	Calculator	5d0db3de042736a4
+1	147	1669228218989352648	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/timestamp	859e7d4cfb521359
+1	147	1669228218989352648	Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+159	2383	1669228044604724596	CMakeFiles/Calculator.dir/Theme.cpp.o	28c943d8520ca774
+147	2165	1669228221005199613	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	2c0b6160ee77f7f7
+148	2323	1669228221165187497	CMakeFiles/Calculator.dir/Program.cpp.o	8f4c6609a290a905
+2323	2640	1669228221477163871	Calculator	f46b8ce8e489411d
+1	147	1669228218989352648	Calculator_autogen/timestamp	859e7d4cfb521359
+0	162	1669226726431230192	build.ninja	23c71f6f39e10894
+1	147	1669228218989352648	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+148	2320	1669228221161187799	CMakeFiles/Calculator.dir/main_window.cpp.o	528abfd3456480cb
+21	2732	1669207966725131766	CMakeFiles/Calculator.dir/main.cpp.o	3a8cb55c16f9aa29
+21	1233	1669207965225118069	CMakeFiles/Calculator.dir/BigNum.cpp.o	5994f8d1be523a6c
+1	15	1669228234940155305	Calculator_autogen/timestamp	859e7d4cfb521359
+1	15	1669228234940155305	Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+1	15	1669228234940155305	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/timestamp	859e7d4cfb521359
+1	15	1669228234940155305	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+16	1492	1669228236416046084	CMakeFiles/Calculator.dir/main_window.cpp.o	528abfd3456480cb
+1492	1813	1669228236736022433	Calculator	f46b8ce8e489411d
+1	14	1669228266085904323	Calculator_autogen/timestamp	859e7d4cfb521359
+1	14	1669228266085904323	Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+1	14	1669228266085904323	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/timestamp	859e7d4cfb521359
+1	14	1669228266085904323	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+15	1551	1669228267621796213	CMakeFiles/Calculator.dir/main_window.cpp.o	528abfd3456480cb
+1551	1874	1669228267937773993	Calculator	f46b8ce8e489411d
+2	15	1669228298839654975	Calculator_autogen/timestamp	859e7d4cfb521359
+2	15	1669228298839654975	Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+2	15	1669228298839654975	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/timestamp	859e7d4cfb521359
+2	15	1669228298839654975	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+16	1553	1669228300379552076	CMakeFiles/Calculator.dir/main_window.cpp.o	528abfd3456480cb
+1553	1871	1669228300691531257	Calculator	f46b8ce8e489411d

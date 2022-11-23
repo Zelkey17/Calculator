@@ -22,6 +22,8 @@ add_executable(Calculator
         BigNum.h
         Program.cpp
         Program.h
+        Theme.cpp
+        Theme.h
         )
 target_link_libraries(Calculator
         Qt5::Core

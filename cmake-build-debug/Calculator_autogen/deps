@@ -4,6 +4,8 @@ Calculator_autogen/timestamp: \
 	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/CMakeLists.txt \
 	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/Program.cpp \
 	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/Program.h \
+	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/Theme.cpp \
+	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/Theme.h \
 	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake \
 	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake \
 	/home/ash/Рабочий\ стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake \
@@ -317,6 +319,7 @@ Calculator_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/qt5/QtCore/qvarlengtharray.h \
 	/usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h \
 	/usr/include/x86_64-linux-gnu/qt5/QtCore/qversiontagging.h \
+	/usr/include/x86_64-linux-gnu/qt5/QtGui/QPalette \
 	/usr/include/x86_64-linux-gnu/qt5/QtGui/qbrush.h \
 	/usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h \
 	/usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \
