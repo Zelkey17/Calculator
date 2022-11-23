@@ -1,0 +1,11 @@
+# ninja log v5
+1	185	1669206745985253559	Calculator_autogen/timestamp	859e7d4cfb521359
+1	185	1669206745985253559	Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+1	185	1669206745985253559	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/timestamp	859e7d4cfb521359
+1	185	1669206745985253559	/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/Calculator_autogen/mocs_compilation.cpp	859e7d4cfb521359
+187	1321	1669206747121266073	CMakeFiles/Calculator.dir/BigNum.cpp.o	5994f8d1be523a6c
+186	2576	1669206748377279903	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	2c0b6160ee77f7f7
+187	2775	1669206748577282104	CMakeFiles/Calculator.dir/Program.cpp.o	8f4c6609a290a905
+185	2785	1669206748585282192	CMakeFiles/Calculator.dir/main.cpp.o	3a8cb55c16f9aa29
+186	2824	1669206748625282633	CMakeFiles/Calculator.dir/main_window.cpp.o	528abfd3456480cb
+2825	3215	1669206749013286903	Calculator	5d0db3de042736a4

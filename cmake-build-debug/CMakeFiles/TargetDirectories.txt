@@ -1,0 +1,5 @@
+/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
+/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+/home/ash/Рабочий стол/Studing/c++/Pracs/Calculator/cmake-build-debug/CMakeFiles/Calculator_autogen.dir
