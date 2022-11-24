@@ -19,6 +19,8 @@ namespace calculator {
 
         void change_to_gray();
 
+        void change_to_weired();
+
         QPalette *get();
     };
 

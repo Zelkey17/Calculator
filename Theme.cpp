@@ -189,5 +189,90 @@ namespace calculator {
         _palette = palette;
     }
 
+    void Theme::change_to_weired() {
+        QPalette palette;
+        QBrush brush(QColor(192, 97, 203, 255));
+        brush.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::WindowText, brush);
+        QBrush brush1(QColor(255, 163, 72, 255));
+        brush1.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Button, brush1);
+        QBrush brush2(QColor(152, 106, 68, 255));
+        brush2.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Light, brush2);
+        QBrush brush3(QColor(205, 171, 143, 255));
+        brush3.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Midlight, brush3);
+        QBrush brush4(QColor(97, 53, 131, 255));
+        brush4.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Dark, brush4);
+        QBrush brush5(QColor(170, 170, 170, 255));
+        brush5.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Mid, brush5);
+        QBrush brush6(QColor(165, 29, 45, 255));
+        brush6.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Text, brush6);
+        QBrush brush7(QColor(255, 255, 255, 255));
+        brush7.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::BrightText, brush7);
+        QBrush brush8(QColor(0, 0, 0, 255));
+        brush8.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::ButtonText, brush8);
+        QBrush brush9(QColor(248, 228, 92, 255));
+        brush9.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Base, brush9);
+        QBrush brush10(QColor(153, 193, 241, 255));
+        brush10.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::Window, brush10);
+        palette.setBrush(QPalette::Active, QPalette::Shadow, brush8);
+        palette.setBrush(QPalette::Active, QPalette::AlternateBase, brush7);
+        QBrush brush11(QColor(255, 255, 220, 255));
+        brush11.setStyle(Qt::SolidPattern);
+        palette.setBrush(QPalette::Active, QPalette::ToolTipBase, brush11);
+        palette.setBrush(QPalette::Active, QPalette::ToolTipText, brush8);
+        QBrush brush12(QColor(0, 0, 0, 128));
+        brush12.setStyle(Qt::SolidPattern);
+#if QT_VERSION >= QT_VERSION_CHECK(5, 12, 0)
+        palette.setBrush(QPalette::Active, QPalette::PlaceholderText, brush12);
+#endif
+        palette.setBrush(QPalette::Inactive, QPalette::WindowText, brush);
+        palette.setBrush(QPalette::Inactive, QPalette::Button, brush1);
+        palette.setBrush(QPalette::Inactive, QPalette::Light, brush2);
+        palette.setBrush(QPalette::Inactive, QPalette::Midlight, brush3);
+        palette.setBrush(QPalette::Inactive, QPalette::Dark, brush4);
+        palette.setBrush(QPalette::Inactive, QPalette::Mid, brush5);
+        palette.setBrush(QPalette::Inactive, QPalette::Text, brush6);
+        palette.setBrush(QPalette::Inactive, QPalette::BrightText, brush7);
+        palette.setBrush(QPalette::Inactive, QPalette::ButtonText, brush8);
+        palette.setBrush(QPalette::Inactive, QPalette::Base, brush9);
+        palette.setBrush(QPalette::Inactive, QPalette::Window, brush10);
+        palette.setBrush(QPalette::Inactive, QPalette::Shadow, brush8);
+        palette.setBrush(QPalette::Inactive, QPalette::AlternateBase, brush7);
+        palette.setBrush(QPalette::Inactive, QPalette::ToolTipBase, brush11);
+        palette.setBrush(QPalette::Inactive, QPalette::ToolTipText, brush8);
+#if QT_VERSION >= QT_VERSION_CHECK(5, 12, 0)
+        palette.setBrush(QPalette::Inactive, QPalette::PlaceholderText, brush12);
+#endif
+        palette.setBrush(QPalette::Disabled, QPalette::WindowText, brush4);
+        palette.setBrush(QPalette::Disabled, QPalette::Button, brush1);
+        palette.setBrush(QPalette::Disabled, QPalette::Light, brush2);
+        palette.setBrush(QPalette::Disabled, QPalette::Midlight, brush3);
+        palette.setBrush(QPalette::Disabled, QPalette::Dark, brush4);
+        palette.setBrush(QPalette::Disabled, QPalette::Mid, brush5);
+        palette.setBrush(QPalette::Disabled, QPalette::Text, brush4);
+        palette.setBrush(QPalette::Disabled, QPalette::BrightText, brush7);
+        palette.setBrush(QPalette::Disabled, QPalette::ButtonText, brush4);
+        palette.setBrush(QPalette::Disabled, QPalette::Base, brush10);
+        palette.setBrush(QPalette::Disabled, QPalette::Window, brush10);
+        palette.setBrush(QPalette::Disabled, QPalette::Shadow, brush8);
+        palette.setBrush(QPalette::Disabled, QPalette::AlternateBase, brush7);
+        palette.setBrush(QPalette::Disabled, QPalette::ToolTipBase, brush11);
+        palette.setBrush(QPalette::Disabled, QPalette::ToolTipText, brush8);
+#if QT_VERSION >= QT_VERSION_CHECK(5, 12, 0)
+        palette.setBrush(QPalette::Disabled, QPalette::PlaceholderText, brush12);
+#endif
+        _palette = palette;
+    }
+
 
 } // calculator
